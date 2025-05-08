@@ -31,5 +31,14 @@ R// Cuenta en GitHub: Es necesario registrarse en github.com para crear reposito
 -Definir normas de contribución: Un archivo CONTRIBUTING.md indica cómo otros pueden contribuir al proyecto, qué formato debe tener el código.
 
 ### comandos habituales para trabajar con repositorios 
+Comando	                        Descripción
+git init	    Inicializa un nuevo repositorio Git en el directorio actual.
+git clone <url>	  Clona un repositorio remoto a tu máquina local.
+git status	    Muestra el estado de los archivos en tu directorio de trabajo.
+git add <archivo>	Añade un archivo específico al área de preparación.
+git add . o git add -A	Añade todos los archivos modificados al área de preparación.
+git commit -m "mensaje"	Realiza un commit con un mensaje descriptivo.
+git push origin <rama>	Sube tus commits locales a la rama especificada en el repositorio remoto.
+git pull origin <rama>	Descarga y fusiona los cambios de la rama remota a tu rama local.
 
 
