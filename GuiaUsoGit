@@ -1,4 +1,7 @@
 # guia del uso del git 
+# puntos clave
+## 1¿que es git?
+## 2¿que es github
 1 R// Git es una forja para alojar proyectos utilizando el sistema de control de versiones Git
 Se utiliza principalmente para la creación de código fuente deprogramas de ordenador. El software que 
 opera GitHub fue escrito en Rubyon Rails. Desde enero de 2010, GitHub opera bajo el nombre de GitHub, Inc.
@@ -10,4 +13,23 @@ Almacenar tu código en un "repositorio" en GitHub te permite lo siguiente:
     Presentar o compartir el trabajo.
     Seguir y administrar los cambios en el código a lo largo del tiempo.
     Dejar que otros usuarios revisen el código y realicen sugerencias para mejorarlo.
-    Colaborar en un proyecto compartido, sin preocuparse de que los cambios afectarán al trabajo de los colaboradores antes de que esté listo para integrarlos.
+    Colaborar en un proyecto compartido, sin preocuparse de que los cambios afectarán al trabajo de los colaboradores.
+
+### ¿Que nesecitamos para usar github en nuestros poroyectos?
+R// Cuenta en GitHub: Es necesario registrarse en github.com para crear repositorios y colaborar en proyectos.
+
+-Instalar Git: Git es el sistema de control de versiones que GitHub utiliza. Puedes descargarlo desde git-scm.com.
+
+-Herramienta para usar Git: Puedes optar por una interfaz gráfica como GitHub Desktop, SourceTree o Git Kraken, o utilizar la terminal.
+
+-Elegir una licencia: Es fundamental seleccionar una licencia para tu proyecto, como MIT, Apache 2.0 o GPLv3. Esto permite que otros puedan usar.
+
+-Crear un archivo README: Este archivo debe explicar qué hace tu proyecto, cómo instalarlo, cómo contribuir y cualquier otra información relevante.
+
+-Establecer un código de conducta: Un archivo CODE_OF_CONDUCT.md ayuda a mantener un ambiente respetuoso y profesional en tu comunidad de colaboradores.
+
+-Definir normas de contribución: Un archivo CONTRIBUTING.md indica cómo otros pueden contribuir al proyecto, qué formato debe tener el código.
+
+### comandos habituales para trabajar con repositorios 
+
+
