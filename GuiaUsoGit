@@ -8,7 +8,7 @@ opera GitHub fue escrito en Rubyon Rails. Desde enero de 2010, GitHub opera bajo
 
 2 R//GitHub es una plataforma basada en la nube donde puedes almacenar, compartir y trabajar junto con otros usuarios para escribir código.
 
-Almacenar tu código en un "repositorio" en GitHub te permite lo siguiente:
+Almacenar tu código en un "repositorio" en GitHub te permite lo siguiente: 
 
     Presentar o compartir el trabajo.
     Seguir y administrar los cambios en el código a lo largo del tiempo.
@@ -40,5 +40,6 @@ git add . o git add -A	Añade todos los archivos modificados al área de prepara
 git commit -m "mensaje"	Realiza un commit con un mensaje descriptivo.
 git push origin <rama>	Sube tus commits locales a la rama especificada en el repositorio remoto.
 git pull origin <rama>	Descarga y fusiona los cambios de la rama remota a tu rama local.
+
 
 
